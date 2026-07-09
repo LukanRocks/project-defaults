@@ -1,3 +1,4 @@
-# prettier-config
+# Project Defaults
 
-My default prettier setup used across projects.
+Some of my default setup used across projects.
+
